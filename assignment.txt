@@ -1,0 +1,54 @@
+React Assignment
+
+For this assignment, we want to give you all the opportunity to choose an application that you'd like to build over the next couple of weeks. You should be thinking of this as a project that you will add to your resume or portfolio. You will work on the project in multiple iterations, with deliverables for each day of work that build upon the concepts we have covered in morning lessons. Choose an application from the examples below and complete the deliverables for this iteration outlined below.
+
+
+
+Personal Budget Tracker (Easy): This is a simple application that allows users to manage their personal finances.
+
+To-Do List (Easy): A classic application to help users manage their tasks.
+
+Recipe Finder (Medium): This application allows users to search for recipes based on various criteria.
+
+Book Review Forum (Medium): This application allows users to search for books, read and post reviews, and save favorite books.
+
+
+
+Deliverables for Iteration 2:
+
+Budget Tracker
+
+Expand the existing React project with the file structure created in Iteration 1.
+Implement state management using React's useState hook to store and update the list of transactions.
+Add functionality to allow users to add new transactions dynamically through a form.
+Implement the ability to delete transactions from the list.
+Style the list of transactions using CSS to enhance the user interface.
+
+To-Do List
+
+Expand the existing React project with the file structure created in Iteration 1.
+Implement state management using React's useState hook to store and update the list of tasks.
+Add functionality to allow users to add new tasks dynamically through a form.
+Implement the ability to mark tasks as completed and update their status accordingly.
+Style the list of tasks using CSS to improve the visual appearance.
+
+Recipe Finder
+
+Expand the existing React project with the file structure created in Iteration 1.
+Implement state management using React's useState hook to store and update the list of recipes.
+Add functionality to allow users to search for recipes based on various criteria (e.g., ingredient, cuisine, etc.).
+Style the list of recipes using CSS to enhance the user experience.
+
+// food is the list of recipes and directions is the way to access the list of recipes when accessed we can take away a recipe add a recipe or change a recipe.
+  //create a search bar
+
+//when I type something into the text bar the text should use useState to use directions to access the recipe list.
+
+
+Book Review Forum
+
+Expand the existing React project with the file structure created in Iteration 1.
+Implement state management using React's useState hook to store and update the list of books.
+Add functionality to allow users to search for books by title, author, or genre.
+Implement a form for users to submit book reviews, including a rating and comments.
+Style the list of books and the book review form using CSS to create an appealing layout.
