@@ -1,19 +1,22 @@
 import React from 'react'
 import { useState } from 'react'
-import viteLogo from '/vite.svg'
+import Recipes from './recipes.js'
 import Component from './component.jsx'
 import './App.css'
 
-
-
-
-
-
   function App() {
+
   return ( 
-    <Component />
+    <div>
+      <h1> recipe finder </h1>
+      {recipes(recipe[0])};
+    </div>
+   
   );
 }
+
+
+
 
 
 

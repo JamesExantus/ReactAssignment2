@@ -1,5 +1,5 @@
 
-import component from './Recipe Finder/src/component.jsx';
+import component from './src/component.jsx';
 
 export default function app() {
   return ( 
